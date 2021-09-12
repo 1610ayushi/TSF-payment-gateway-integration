@@ -9,7 +9,7 @@ html,body{
     width: 100%;
     background: #65C3E5;
    background: -webkit-linear-gradient(left,#A4C3D2, #BFD4DB);
-  color:white;
+  color:black;
 }
 nav{
    font-style: oblique;
